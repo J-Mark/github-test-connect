@@ -1,0 +1,1 @@
+This project contains no content. It is used to test the linking of repositories from a local machine to GitHub through creating a non-Git repo locally to start.
